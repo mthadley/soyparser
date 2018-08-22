@@ -642,7 +642,8 @@ Object {
               "offset": 198,
             },
           },
-          "type": "If",
+          "name": "if",
+          "type": "Other",
         },
         Object {
           "body": Array [],
@@ -875,7 +876,8 @@ Object {
               "offset": 579,
             },
           },
-          "type": "If",
+          "name": "if",
+          "type": "Other",
         },
         Object {
           "body": Array [],
@@ -1129,7 +1131,8 @@ Object {
               "offset": 192,
             },
           },
-          "type": "If",
+          "name": "if",
+          "type": "Other",
         },
         Object {
           "body": Array [],
@@ -2361,7 +2364,8 @@ Object {
               "offset": 192,
             },
           },
-          "type": "If",
+          "name": "if",
+          "type": "Other",
         },
         Object {
           "body": Array [
@@ -2410,7 +2414,8 @@ Object {
               "offset": 265,
             },
           },
-          "type": "If",
+          "name": "if",
+          "type": "Other",
         },
         Object {
           "body": Array [
@@ -2732,7 +2737,8 @@ Object {
               "offset": 222,
             },
           },
-          "type": "Foreach",
+          "name": "foreach",
+          "type": "Other",
         },
         Object {
           "content": "$name",
@@ -2781,7 +2787,8 @@ Object {
               "offset": 316,
             },
           },
-          "type": "If",
+          "name": "if",
+          "type": "Other",
         },
       ],
       "doc": Object {
